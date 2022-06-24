@@ -1,0 +1,7 @@
+Volume storage demo
+
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/
+
+Persistent volume and Persistent volume claim demo
+
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
